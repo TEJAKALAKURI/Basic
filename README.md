@@ -23,7 +23,7 @@ LCM
 GCD
 Quadratic roots
 Number to word
-Triangles(solution in JAVA folder)
+Triangles
 
 others
 
