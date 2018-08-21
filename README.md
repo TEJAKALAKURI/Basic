@@ -22,7 +22,7 @@ Multiplication table
 LCM
 GCD
 Quadratic roots
-Number to  word
+Number to word
 Triangles(solution in JAVA folder)
 
 others
